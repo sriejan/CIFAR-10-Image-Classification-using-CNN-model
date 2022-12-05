@@ -10,4 +10,3 @@ Topics Covered in this project:
 
 <b>All the implementation are done in TensorFlow and Keras</b>
 
-Google Colab Link: https://colab.research.google.com/drive/1UKneM3gKWFMFzJ1MAPaFO1TzMkjNDBuQ?usp=sharing
